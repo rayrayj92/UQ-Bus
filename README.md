@@ -1,7 +1,15 @@
-# UQ-Bus (Android).
-Self-Project.
-Published in 2015. Closed in 2018 due to the maintenance.
+# UQ Bus (안드로이드 앱)
 
-To see the core function -> src/com/rayrayj92/uqbus/menu/MainActivity.java
+## 개요
+학교에서 출발하는 모든 버스의 남은 시간은 표시하는 앱
 
-It's a messy one. Yes! I admit it, but I can code.
+## 기술
+* Java 8
+* Android Studio
+
+## 기능
+* 모든 캠퍼스의 다음 버스까지 남은 시간 (일반 버스 + 학교 버스)
+
+## 특징
+* 2015년 배포 
+* 2018년 서비스 정지
